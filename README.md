@@ -25,5 +25,5 @@ Frameworks used:
 
 Database Name: boothcaai1
 
-Database Tables: f_name, l_name, movies_1, users, output, dynamic_content
+Database Tables: fname (Input List of first names), lname (Input List of last names), movies_1 (Input List of movies), users (Output List of all users with User ID who use the portal with specific details), output (Output generated out of User Experience tracked with User ID), dynamic_content (Updatable content for specific pages)
 
